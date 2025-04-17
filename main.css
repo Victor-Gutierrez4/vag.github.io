@@ -36,11 +36,11 @@ section h1 {
 section h2 {
 	font-size: 120%;
 }
-#speakers {
+speakers {
 	font-size: 175%;
 	color: black;
 }
-#speakers {
+speakers {
 	border: 3px double #800000;
 	margin-bottom: .75em;
 	border-radius: 10px;
