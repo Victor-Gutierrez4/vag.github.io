@@ -41,11 +41,8 @@ speakers {
 	color: black;
 }
 
-#speakers {
-	
-}
 
-#speakers {
+ {
 	border: 3px double #800000;
 	margin-bottom: .75em;
 	border-radius: 10px;
@@ -53,7 +50,6 @@ speakers {
 	padding: .5em 0 .5em 2em;
 	background-color: white;
 }
-*/
 
 footer {
 	border-top: 3px solid #800000;
