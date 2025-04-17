@@ -1,8 +1,8 @@
-/* So the HTML5 structural tags work in older browsers */
+
 article, aside, figure, footer, header, nav, section {
     display: block;
 }
-/* the styles for the elements */
+
 * {
 	margin: 0;
 	padding: 0;
@@ -21,7 +21,7 @@ body {
 a:focus, a:hover {
 	font-style: italic;
 }
-/* the styles for the header */
+
 header {
 	border-bottom: 3px solid #800000;
 	padding: 1.5em 0;
@@ -47,7 +47,6 @@ header img {
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
-/* the styles for the section */
 section {
 	clear: left;
 	padding: 0 20px 20px;
@@ -106,21 +105,11 @@ aside h2 {
 aside img {
 	padding-bottom: 1em;
 }
-/* the speakers styles for exercise 5-1 */
+
 #speakers {
 	
 }
-/* the speakers styles for exercise 5-2 
-#speakers {
-	border: 3px double #800000;
-	margin-bottom: .75em;
-	border-radius: 10px;
-	box-shadow: 5px 5px;
-	padding: .5em 0 .5em 2em;
-	background-color: white;
-}
-*/
-/* the styles for the footer */
+
 footer {
 	border-top: 3px solid #800000;
 	clear: both;
