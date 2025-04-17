@@ -40,7 +40,14 @@ section h2 {
 	font-size: 175%;
 	color: black;
 }
-
+#speakers {
+	border: 3px double #800000;
+	margin-bottom: .75em;
+	border-radius: 10px;
+	box-shadow: 5px 5px;
+	padding: .5em 0 .5em 2em;
+	background-color: white;
+}
 footer p {
 	text-align: center;
 }
