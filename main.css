@@ -47,7 +47,11 @@ section h2 {
 	padding: .5em 0 .5em 2em;
 	background-color: white;
 }
-
+.speaker-img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 1em;
+}
 footer {
 	border-top: 3px solid #800000;
 	clear: both;
