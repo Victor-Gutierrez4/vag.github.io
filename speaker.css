@@ -124,3 +124,9 @@ footer p {
 	text-align: center;
 }
 
+#speakers img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin-bottom: 1em;
+}
